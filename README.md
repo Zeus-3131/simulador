@@ -1,4 +1,4 @@
 # simulador
 
-usuario: admin
-contraseña: 1234
+### usuario: admin
+### contraseña: 1234
